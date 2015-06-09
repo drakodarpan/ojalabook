@@ -45,3 +45,4 @@ end
 
 gem 'devise'
 gem 'protected_attributes'
+gem 'simple_form'
